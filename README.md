@@ -1,4 +1,6 @@
 # projet-02
 un deuxième essai de repository
 
-voilà une modif
+voilà une modification
+
+Voilà une deuxième modif
